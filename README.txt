@@ -27,7 +27,8 @@ Pour ça, l’objectif était de mettre en avant un service (même si pour l’e
 - Pas de slider car pas d’intérêt pour le site à mon goût (j’ai appris à le faire en TD au lieu de TP du coup)
 - Pour les widgets j’ai utilisé les blocs pour ça.
 - Les multi templates sont mis en place, un template particulier est utilisé pour la page de vue du listing blog, pour la page single post.
+- Responsive/adaptive complet (avec menu)
 
 Plus tellement un tour d’horizon complet, mais une mise en place solide d’un site simple et classique.
 
-L’objectif final était plus orienté intégration que fonctionnalité finalement.
+L’objectif final était plus orienté intégration & responsive que fonctionnalité finalement.
